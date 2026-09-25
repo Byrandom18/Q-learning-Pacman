@@ -1,0 +1,10 @@
+# Окружение и кэш
+.venv/
+venv/
+__pycache__/
+*.pyc
+.idea/
+.ipynb_checkpoints/
+
+# Старые таблицы курса, прототип пишет results/q_table_*.npy
+*.pkl
